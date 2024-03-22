@@ -1,0 +1,18 @@
+[project]
+name = "hackllm"
+version = "0.0.1"
+authors = [
+  { name="Nico Hoffmann", email="nico.hoffmann@saxony.ai" },
+]
+description = "Code für Jugend hackt Chatbot Hackathon"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/nih23/Chatbot-Hackathon"
+Issues = "https://github.com/nih23/Chatbot-Hackathon/issues"
